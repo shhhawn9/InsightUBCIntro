@@ -1,6 +1,6 @@
 # InsightUBC
 
-**Due to UBC CS license issue, I'm not able to publish my repo. Any recruiters who is interested looking into the project, please contact me via [`my email`](mailto:shawn.gu.92@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).**
+**Due to UBC CS license issue, I'm not able to publish my repo. Any recruiters who is interested looking into the project, please contact me via [`my email`](mailto:shawn.gu.92@gmail.com?subject=[GitHub]Peek%20on%20InsightUBC).**
 
 ## Introduction
 
